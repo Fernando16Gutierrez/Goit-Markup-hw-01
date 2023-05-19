@@ -1,2 +1,2 @@
 ### live Demo
-https://fernando16gutierrez.github.io/goit-markup-hw-1
+https://github.com/Fernando16Gutierrez/goit-markup-hw-01.git
